@@ -1,0 +1,37 @@
+# Visual Studio cache and settings
+/input.txt
+.vs/
+*.VC.db
+*.user
+
+# Build output
+Debug/
+Release/
+x64/
+x86/
+bin/
+obj/
+
+# Intermediate files
+*.obj
+*.pdb
+*.idb
+*.ipch
+
+# Executables and libraries
+*.exe
+*.dll
+*.lib
+
+# CMake build folders
+out/
+CMakeCache.txt
+CMakeFiles/
+
+# Logs
+*.log
+
+# Visual Studio project/solution files (optional)
+*.slnx
+*.vcxproj
+*.vcxproj.filters
